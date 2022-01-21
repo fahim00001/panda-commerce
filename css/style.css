@@ -1,0 +1,10 @@
+.custom-bg-colour{
+    background-color: #fceae9;
+}
+.custom-btn-colour{
+    background-color: #ff599b;
+    border: 0px solid;
+    color: white;
+    padding: 10px 24px;
+    border-radius: 10px;
+}
